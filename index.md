@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "白塔百科"
-  text: "一款内容"
-  tagline: 知识，就是力量。
+  text: "一款内容不一定准确的《诡秘之主》百科"
+  tagline: 知识，就是力量。（也不尽然）
   actions:
     - theme: brand
       text: Markdown Examples

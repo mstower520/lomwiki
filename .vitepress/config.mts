@@ -2,13 +2,19 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "My Awesome Project",
-  description: "A VitePress Site",
+  title: "白塔百科",
+  description: "一款内容不一定准确的《诡秘之主》百科",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: '主页', link: '/' },
+      { text: '人物', link: '/character/home' },
+      { text: '历史', link: '/history/home' },
+      { text: '地理', link: '/geography/home' },
+      { text: '神话', link: '/mythology/home' },
+      { text: '神秘', link: '/mysterious/home' },
+      { text: '途径', link: '/pathway/home' },
+      { text: '博物', link: '/natural/home' }
     ],
 
     sidebar: [
@@ -22,7 +28,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/mstower520/lomwik' }
     ]
   }
 })
