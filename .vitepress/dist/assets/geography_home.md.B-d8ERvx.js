@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.tuuL-SzM.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"geography/home.md","filePath":"geography/home.md"}'),a={name:"geography/home.md"};function r(s,c,n,p,m,h){return o(),t("div")}const i=e(a,[["render",r]]);export{d as __pageData,i as default};

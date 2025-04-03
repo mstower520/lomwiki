@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e}from"./chunks/framework.tuuL-SzM.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pathway/earth/justiciar.md","filePath":"pathway/earth/justiciar.md"}'),r={name:"pathway/earth/justiciar.md"};function s(c,i,o,n,p,_){return e(),a("div")}const m=t(r,[["render",s]]);export{h as __pageData,m as default};

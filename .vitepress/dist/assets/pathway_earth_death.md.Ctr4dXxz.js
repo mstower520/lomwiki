@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e}from"./chunks/framework.tuuL-SzM.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pathway/earth/death.md","filePath":"pathway/earth/death.md"}'),r={name:"pathway/earth/death.md"};function o(s,c,n,d,h,p){return e(),a("div")}const m=t(r,[["render",o]]);export{i as __pageData,m as default};

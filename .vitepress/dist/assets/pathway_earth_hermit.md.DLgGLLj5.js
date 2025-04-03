@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.tuuL-SzM.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pathway/earth/hermit.md","filePath":"pathway/earth/hermit.md"}'),r={name:"pathway/earth/hermit.md"};function o(s,c,n,h,i,p){return a(),e("div")}const d=t(r,[["render",o]]);export{_ as __pageData,d as default};

@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.tuuL-SzM.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pathway/outside/edict.md","filePath":"pathway/outside/edict.md"}'),o={name:"pathway/outside/edict.md"};function c(s,r,d,i,n,p){return a(),e("div")}const f=t(o,[["render",c]]);export{m as __pageData,f as default};

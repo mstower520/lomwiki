@@ -2,10 +2,12 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "白塔百科",
+  title: "白塔Wiki",
   description: "一款内容不一定准确的《诡秘之主》百科",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: 'https://image.rewot.cn/image/ydz-25-04-04-67eed42d377b5.png',
+    siteTitle: '白塔WIKI',
     nav: [
       { text: '主页', link: '/' },
       { text: '人物介绍', link: '/character/home' },
@@ -15,7 +17,9 @@ export default defineConfig({
       { text: '神之途径', link: '/pathway/home' },
       { text: '博物杂学', link: '/natural/home' }
     ],
-
+    footer: {
+      copyright: 'Copyright © RewotStudio'
+    },
     sidebar: {
         'pathway':[
           {

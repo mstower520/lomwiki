@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.tuuL-SzM.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pathway/earth/mother.md","filePath":"pathway/earth/mother.md"}'),r={name:"pathway/earth/mother.md"};function o(s,c,n,h,p,m){return a(),e("div")}const i=t(r,[["render",o]]);export{d as __pageData,i as default};

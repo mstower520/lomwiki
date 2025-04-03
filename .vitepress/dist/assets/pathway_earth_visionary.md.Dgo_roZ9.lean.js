@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as e}from"./chunks/framework.tuuL-SzM.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pathway/earth/visionary.md","filePath":"pathway/earth/visionary.md"}'),r={name:"pathway/earth/visionary.md"};function o(s,n,i,c,p,_){return e(),t("div")}const m=a(r,[["render",o]]);export{h as __pageData,m as default};

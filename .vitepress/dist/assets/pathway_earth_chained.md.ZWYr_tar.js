@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t}from"./chunks/framework.tuuL-SzM.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pathway/earth/chained.md","filePath":"pathway/earth/chained.md"}'),r={name:"pathway/earth/chained.md"};function c(n,o,s,d,h,i){return t(),e("div")}const m=a(r,[["render",c]]);export{_ as __pageData,m as default};

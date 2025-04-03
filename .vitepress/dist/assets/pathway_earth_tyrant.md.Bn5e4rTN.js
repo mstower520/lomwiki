@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e}from"./chunks/framework.tuuL-SzM.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pathway/earth/tyrant.md","filePath":"pathway/earth/tyrant.md"}'),r={name:"pathway/earth/tyrant.md"};function n(o,s,c,p,_,d){return e(),a("div")}const m=t(r,[["render",n]]);export{i as __pageData,m as default};

@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e}from"./chunks/framework.tuuL-SzM.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pathway/earth/twilight.md","filePath":"pathway/earth/twilight.md"}'),r={name:"pathway/earth/twilight.md"};function i(o,s,c,n,h,p){return e(),a("div")}const d=t(r,[["render",i]]);export{_ as __pageData,d as default};
